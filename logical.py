@@ -1,16 +1,19 @@
 eid=[101,102,103,104]
-p(101 in eids) #ture
-p(108 in eids) #false
-p(108 not eids) #ture
+print(101 in eids) #ture
+print(108 in eids) #false
+print(108 not eids) #ture
 enames=("raji","rahul","mahi","jevvi")
-p('raji'in enames)#ture
-p('mahhi'in enames)#false
+print('raji'in enames)#ture
+print('mahhi'in enames)#false
 sizes={'s','m','xl'}
-p('xxl'not in sizes)#ture
+print('xxl'not in sizes)#ture
 ename="raji"
-p('a' in ename)#ture
+print('a' in ename)#ture
 b=bytes([10,20,30,40])
 
 ba=bytearray([10,20,30,40])
-p(10 in ba)
+print(10 in ba)
 numbers=range(100)
+print(100 in eids) #ture
+print(99 in eids) #ture
+print(98 in eids) #ture
