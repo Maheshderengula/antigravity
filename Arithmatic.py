@@ -5,7 +5,7 @@ d=20
 e="raju"
 f="mahi"
 g= ture 
-h=false #false is considered aszero
+h=false #false is considered as zero
 print(a+b)
 print(b+c)
 print(c+d)

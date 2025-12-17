@@ -15,5 +15,5 @@ ba=bytearray([10,20,30,40])
 print(10 in ba)
 numbers=range(100)
 print(100 in eids) #ture
-print(99 in eids) #ture
+print(99 in eids) #false
 print(98 in eids) #ture
