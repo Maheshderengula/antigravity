@@ -8,4 +8,4 @@ print ("ASCII value of 'B'is:",ascii_value_b)
 
 ascii_value = 62
 character = chr(ascii_value)
-print("charater of ASCII value 65 is:", character)
+print("charater of ASCII value 62 is:", character)
